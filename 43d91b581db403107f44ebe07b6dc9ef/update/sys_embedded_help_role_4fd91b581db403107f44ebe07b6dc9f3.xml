@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_wishlist.admin" name="x_snc_wishlist.admin">cbd91b581db403107f44ebe07b6dc9f2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-08 06:29:43</sys_created_on>
+        <sys_id>4fd91b581db403107f44ebe07b6dc9f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cbd91b581db403107f44ebe07b6dc9f2</sys_name>
+        <sys_package display_value="WishList" source="x_snc_wishlist">43d91b581db403107f44ebe07b6dc9ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">43d91b581db403107f44ebe07b6dc9ef</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4fd91b581db403107f44ebe07b6dc9f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-08 06:29:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
